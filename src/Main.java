@@ -8,6 +8,8 @@ public class Main {
 
         int sayi=25;
 
+        int sayi=26;
+
     }
 
 

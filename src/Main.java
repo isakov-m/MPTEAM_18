@@ -4,7 +4,7 @@ public class Main {
 
         System.out.println("Senol Dogan");
 
-        System.out.println("gözüme giriyosun");
+        System.out.println("gözüme giriyosunn");
 
     }
 
